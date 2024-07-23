@@ -22,7 +22,7 @@
             "showIcon": true
         },
         {
-            "label": "Portofolio",
+            "label": "Portfolio",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
