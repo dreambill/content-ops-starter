@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: ΑΝΑΣΤΑΣΙΑ ΓΟΔΕΒΕΝΟΥ
-      color: text-light
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
