@@ -28,15 +28,6 @@ sections:
       Ανακαλύψτε πώς μπορούμε να μεταμορφώσουμε το χώρο σας μαζί. Επικοινωνήστε
       μαζί μου για να συζητήσουμε τις ιδέες και τις επιθυμίες σας.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
