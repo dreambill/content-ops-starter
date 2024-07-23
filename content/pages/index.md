@@ -27,16 +27,7 @@ sections:
 
       Ανακαλύψτε πώς μπορούμε να μεταμορφώσουμε το χώρο σας μαζί. Επικοινωνήστε
       μαζί μου για να συζητήσουμε τις ιδέες και τις επιθυμίες σας.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
