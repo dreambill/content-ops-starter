@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Αρχική",
-            "url": "/ ",
+            "url": "/arxiki",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
