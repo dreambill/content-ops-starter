@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Επικοινωνία
 slug: pricing
 sections:
   - title:
