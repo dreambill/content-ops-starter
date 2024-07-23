@@ -83,6 +83,13 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "/",
+            "icon": "facebook",
+            "elementId": ""
         }
     ],
     "legalLinks": [],
