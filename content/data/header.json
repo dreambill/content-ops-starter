@@ -15,7 +15,7 @@
         {
             "label": "Αρχική",
             "url": "/arxiki",
-            "icon": "arrowRight",
+            "icon": "chevronDown",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
