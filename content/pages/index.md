@@ -11,7 +11,7 @@ sections:
         self:
           fontWeight: 400
           textAlign: left
-    subtitle: Subtitle goes here
+    subtitle: INTERIOR DESIGNER
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
