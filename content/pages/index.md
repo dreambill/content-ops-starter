@@ -45,6 +45,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      text:
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
