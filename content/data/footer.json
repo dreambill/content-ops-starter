@@ -72,6 +72,13 @@
             "url": "/https://www.facebook.com/siaa.godevenou",
             "icon": "facebook",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/https://www.instagram.com/sg.design_._/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [],
