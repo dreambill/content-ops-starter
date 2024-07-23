@@ -3,7 +3,7 @@ title: Επικοινωνία
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Επικοινωνήστε μαζι μας
       color: text-dark
       styles:
         self:
