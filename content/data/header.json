@@ -23,7 +23,7 @@
         },
         {
             "label": "Portfolio",
-            "altText": "Blog",
+            "altText": "Portfolio",
             "url": "/portfolio",
             "icon": "arrowRight",
             "iconPosition": "right",
